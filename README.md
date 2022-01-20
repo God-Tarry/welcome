@@ -1,6 +1,5 @@
-- Hi, I’m @TarrytheProblem
-- I’m interested in Computer Programming 
-- I’m currently learning Python and Java
+- Hi, I’m @Tarry Godfrey Gaoseb
+- I’m interested in Computer Programming, Web Design and Software Programming
 
 <!---
 TarrytheProblem/TarrytheProblem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
